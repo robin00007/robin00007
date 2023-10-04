@@ -44,9 +44,7 @@ I am [Robin](https://github.com/robin00007) , a BE  Student at Army Institute of
 ## :trophy:  My Github Stats:
 
 
-| ![Robin's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=robin00007&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robin00007) |
-| --- | --- |
-| ![Robin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robin00007) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/01mukesh29m) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/01mukesh29m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> |
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robin00007) 
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukeshblackhat.mukeshblackhat)
