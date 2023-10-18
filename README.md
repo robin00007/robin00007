@@ -13,15 +13,7 @@ I am [Robin](https://github.com/robin00007) , a BE  Student at Army Institute of
 - ⚡ Some Full stack projects build by me to help students in my college , [PixelWorld](https://groww-phi.vercel.app/),  [Sorting visulaizer](https://dsa-mini-project.vercel.app/) and [Personal Porfolio](https://robinchoudhary.me).
 
 
-### We can have chat at any social platform:
-
-
-
-<img align="left" alt="Robin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
-[<img align="left" alt="Robin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Robin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+ 
 
 
 ### Languages and Tools:
