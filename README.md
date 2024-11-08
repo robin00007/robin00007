@@ -1,15 +1,13 @@
 
 ### Hi there 👋
-I am [Robin](https://github.com/robin00007) , a BE  Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+I am [Robin](https://github.com/robin00007) , completed my computer engineering from Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
 
 - 🌱 I’m know how to build applications with MERN Stack and deploy them completely at ready to use level.
 - 📫 How to reach me: 
     [LinkedIn](https://www.linkedin.com/in/robinhood00007/)
-    [Portfolio](https://robinchoudhary.me)
-    [Instagram](https://www.instagram.com/robin._.hood07/)
-
-- ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
+  
+- ⚡ Interested in being a part as Software Developer and Build amazing application for your Company.
 - ⚡ Some Full stack projects build by me to help students in my college , [PixelWorld](https://groww-phi.vercel.app/),  [Sorting visulaizer](https://dsa-mini-project.vercel.app/) and [Personal Porfolio](https://robinchoudhary.me).
 
 
