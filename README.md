@@ -1,46 +1,81 @@
+<h1 align="center">Hey, I'm Robin 👋</h1>
 
-### Hi there 👋
-I am [Robin](https://github.com/robin00007) , completed my computer engineering from Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+<p align="center">
+  <b>Full Stack Developer</b> • <b>Startup Builder</b> • <b>AI Enthusiast</b>  
+</p>
 
-
-- 🌱 I’m know how to build applications with MERN Stack and deploy them completely at ready to use level.
-- 📫 How to reach me: 
-    [LinkedIn](https://www.linkedin.com/in/robinhood00007/)
-  
-- ⚡ Interested in being a part as Software Developer and Build amazing application for your Company.
-- ⚡ Some Full stack projects build by me to help students in my college , [PixelWorld](https://groww-phi.vercel.app/),  [Sorting visulaizer](https://dsa-mini-project.vercel.app/) and [Personal Porfolio](https://robinchoudhary.me).
-
-
- 
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-<br />
-
-[![Robin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=robin00007&theme=react-dark)](https://git.io/robin00007)
-
-<br />
-
-## :trophy:  My Github Stats:
-
-
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robin00007) 
+<p align="center">
+  <a href="mailto:robinhood19062002@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/robinhood00007/">💼 LinkedIn</a> •
+  <a href="https://github.com/robin00007">🛠 GitHub</a> •
+  <a href="https://leetcode.com/robinhood07/">💡 Leetcode</a> 
+</p>
 
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukeshblackhat.mukeshblackhat)
 
+### 🧠 About Me
 
+I'm a software engineer with a passion for turning complex problems into user-friendly, scalable products.  
+Currently building **Lyra** (formerly Jarvis) — an AI assistant that helps users plan their life, track habits, and reach their goals using LLMs, real-time tools, and smart daily flows.
 
+---
 
-  -  [LinkedIn](https://www.linkedin.com/in/robinhood00007/)
-  -  [Instagram](https://www.instagram.com/robin._.hood07/)
+### 🚀 Projects & Highlights
+
+#### 🧭 Lyra.AI — Full-stack AI productivity assistant
+
+- Built a personalized “Today” route that boosted task completion by **45%**.
+- Designed multimodal interface: **voice-to-text**, **TTS**, markdown chat, prompt-based tool calls.
+- Enabled **offline-first** UX with React Query & AsyncStorage caching.
+- Architected dual socket channels for smooth async streaming: `/askGpt`, `/generatePlan`.
+- Built **multi-agent planning tools** using Model Context Protocol (MCP) — enabling LLM ↔ Tool communication.
+
+[GitHub](https://github.com/robin00007) · [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7326286022273601536/)
+
+---
+
+#### 📦 NPM Package: trie_elastic_search  
+- Trie-based search library with **debounced queries**, optimized for fast fuzzy lookups.  
+- Enhanced internal search by **40%** in large data sets.  
+[📦 npmjs.com/package/trie_elastic_search](https://www.npmjs.com/package/trie_elastic_search)
+
+#### 🧩 Youtube Manager (Chrome Extension)  
+- AI-powered extension to **block Shorts**, **sort videos**, and **boost productivity**.
+- Used **MutationObserver**, local caching, and custom proxying to filter content dynamically.
+
+#### 💬 ChatApp (WhatsApp Clone)  
+- Built using **Next.js**, **Socket.io**, **MongoDB**, and **MUI**.
+- Real-time messaging app with authentication and conversation persistence.
+
+#### 📸 SocialFly  
+- Integrated **Unsplash API** with Next.js and Redux Toolkit.
+- Delivered a photo-centric social app with improved state management and UX performance by **45%**.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**: JavaScript, TypeScript, C++  
+**Frontend**: React.js, Next.js, React Native, Redux Toolkit, MUI  
+**Backend**: Node.js, Express.js, MongoDB, MySQL  
+**Tools**: Zustand, React Query, Socket.io, AsyncStorage, Chrome APIs, Git  
+**Concepts**: LLM Tooling (OpenAI Functions), Model Context Protocol, Modular Design, Offline-first UX
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin00007&layout=compact&theme=react)
+![Robin's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robin00007&theme=react-dark)
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/robinhood00007/)
+- 🌐 [Portfolio](https://robinchoudhary.me)
+- 📧 robinhood19062002@gmail.com
+
+---
+
+<p align="center">⚡ Always building. Always learning. Always shipping.</p>
