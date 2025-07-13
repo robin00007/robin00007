@@ -20,7 +20,7 @@ Currently building **Lyra** (formerly Jarvis) — an AI assistant that helps use
 
 ---
 
-### 🚀 Projects & Highlights
+### 🚀 Best Project ( Startup Idea ) 
 
 #### 🧭 Lyra.AI — Full-stack AI productivity assistant
 
