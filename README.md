@@ -66,7 +66,7 @@ Currently building **Lyra** (formerly Jarvis) — an AI assistant that helps use
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin00007&layout=compact&theme=react)
-![Robin's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robin00007&theme=react-dark)
+![Robin's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=robin00007&theme=react-dark&area=true&hide_border=true)
 
 ---
 
