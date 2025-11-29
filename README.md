@@ -22,7 +22,7 @@ Currently building **Lyra** (formerly Jarvis) — an AI assistant that helps use
 
 ### 🚀 Best Project ( Startup Idea ) 
 
-#### 🧭 Lyra.AI — Full-stack AI productivity assistant
+#### 🧭 NextU — Full-stack AI productivity assistant
 
 - Built a personalized “Today” route that boosted task completion by **45%**.
 - Designed multimodal interface: **voice-to-text**, **TTS**, markdown chat, prompt-based tool calls.
